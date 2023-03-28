@@ -1,0 +1,67 @@
+body {
+    width: 100%;
+    grid-template-columns: auto;
+    /* font-size: 16px; */
+
+  }
+  .main {
+    width: 100%;
+  }
+.logo {
+    width: 100%;
+    background-color: red;
+    padding: 5px;
+}
+main {
+    text-align: center;
+}
+.box-1 {
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+ul .fontsize-1{
+  width: 500px;
+  position: relative;
+  margin-top: -400px;
+  padding: 8px;
+  margin-left: 300px;  
+}
+ul .fontsize-1 {
+    color: white;
+}
+ul .fontsize-1  h3 {
+    border: none;
+    background-color: red(61, 61, 61);
+}
+.box-2{
+    margin-top: 250px;
+    margin-left: 150px;
+    font-size: 12px;
+}
+.box-2 .fontsize-2 {
+    margin-left: 250px;
+}
+#button-1 {
+    padding: 1px;
+}
+#button-2 {
+    background-color: rgb(104, 82, 82);
+    padding: 8px;
+    margin-left: 500px;
+}
+.box-3{
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 12px;
+}
+.box-4{
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 12px;
+}
+.box-5 {
+    margin-top: 50px;
+    
+}
